@@ -1,0 +1,12 @@
+customtkinter>=5.2.0
+torch
+torchvision
+Pillow
+xgboost
+pandas
+numpy
+kaggle
+kagglehub
+transformers
+sentencepiece
+accelerate

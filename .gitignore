@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Large model weights and local databases
+*.pth
+*.pt
+*.onnx
+*.db
+*.sqlite3
+
+# Mock datasets
+ai_models/vision/dataset/
