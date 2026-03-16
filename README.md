@@ -97,7 +97,7 @@ This architecture is inherently scaled to align with international sustainabilit
 Contributions are welcome! Please fork the repository and submit a Pull Request. For major feature requests, kindly open an issue first to discuss what you would like to implement.
 
 ## 👨‍💻 Creator
-Developed by [uitachi18](https://github.com/uitachi18). Feel free to reach out or open an issue if you have questions or suggestions for improving the AI-Smart-Farming project!
+Developed by [Gaurav](https://github.com/uitachi18). Feel free to reach out or open an issue if you have questions or suggestions for improving the AI-Smart-Farming project!
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
